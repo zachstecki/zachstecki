@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Zach
+- 👀 I’m interested in FiveM
+- 🌱 I’m currently learning .lua
